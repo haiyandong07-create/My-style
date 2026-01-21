@@ -1,0 +1,7 @@
+{
+  "name": "My Style ",
+  "description": "一款高端 AI 驱动的衣橱管理与时尚助手，提供每日穿搭建议，并利用 Gemini Vision 分析时尚灵感。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

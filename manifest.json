@@ -1,0 +1,18 @@
+
+{
+  "name": "Style Genie AI 智能衣橱",
+  "short_name": "StyleGenie",
+  "description": "基于 AI 的个人数字美学顾问与衣橱管理工具",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F2F2EB",
+  "theme_color": "#F2F2EB",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3050/3050215.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
